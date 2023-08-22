@@ -1,4 +1,4 @@
-# WeatherPrediction Kharagpur
+# Weather Forecasting of Kharagpur
 
 ## Overview
 This project focuses on predicting future weather temperatures and classifying weather conditions for upcoming days using advanced neural networks. We have employed several models, including Recurrent Neural Networks (RNN), XGBoost, and ARIMA, to forecast weather temperature. After comparing their performance, we found that the RNN model provides the most accurate predictions.
